@@ -1,0 +1,16 @@
+hr{
+    border-style:dotted none none;
+    width:5%;
+    border-color:grey;
+    border-width:8px;
+}
+body{
+    background-color:BCCEF8;
+}
+h1,h2{
+    color:rgb(187, 87, 87);
+}
+.skl{
+    style:dotted;
+    background-color:aqua;
+}
